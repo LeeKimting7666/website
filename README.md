@@ -1,2 +1,2 @@
 # website
-My website XD
+This is my first website ever.
