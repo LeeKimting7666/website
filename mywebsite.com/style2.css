@@ -1,0 +1,21 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: dimgray;
+}
+    
+ul .bar {
+    margin: 19px;
+    padding: 10px;
+}
+
+ul li {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction: inherit;
+    margin-left: 50em;
+    padding: 10px;
+    font-family: sans-serif;
+    list-style: upper-alpha;
+}
